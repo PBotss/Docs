@@ -6,13 +6,13 @@ description: 'This guide will show you how to get started with DBots, and add a 
 
 ### Step 1
 
-**Join the DBots Server** Make sure you are in the [DBots Discord Server](https://discord.gg/uDTgxyg) to enable you to add a bot.
+**Join the DBots Server** Make sure you are in the [PBots Discord Server](https://discord.gg/9YDAm3qTae) to enable you to add a bot.
 
 ![](.gitbook/assets/join-the-server.png)
 
 ### Step 2
 
-**Add a Bot** [Login]([https://dbots.co/login) to the DBots Dashboard to your server. This will redirect you to a Discord OAuth2 link which should auto login to DBots, with your currently logged-in Discord account. After logging into the dashboard, you can [add a bot](/dashboard/bots/new) by clicking on the '+' icon.
+**Add a Bot** [Login]([https://pbots.herokuapp.com/login) to the DBots Dashboard to your server. This will redirect you to a Discord OAuth2 link which should auto login to DBots, with your currently logged-in Discord account. After logging into the dashboard, you can [add a bot](/dashboard/bots/new) by clicking on the '+' icon.
 
 ![](.gitbook/assets/add-bot.png)
 

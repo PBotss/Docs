@@ -1,5 +1,5 @@
 ---
-description: Welcome to the DBots docs.
+description: Welcome to the PBots docs.
 ---
 
 # Welcome

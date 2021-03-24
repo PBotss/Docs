@@ -6,7 +6,7 @@ description: 'This guide will show you how to get started with DBots, and add a 
 
 ### Step 1
 
-**Join the DBots Server** Make sure you are in the [PBots Discord Server](https://discord.gg/9YDAm3qTae) to enable you to add a bot.
+**Join the DBots Server** Make sure you are in the [PBots Discord Server](https://discord.gg/kSEFHaC7X6) to enable you to add a bot.
 
 ![](https://imgur.com/357ba8e6-3bcb-4e37-b767-894199fe4df0)
 
